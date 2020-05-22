@@ -9,6 +9,7 @@ pip install selenium
 pip install chromedriver-binary
 pip install lxml
 pip install bs4
+pip install requests
 ```
 ※chromedriver-binaryはChromeドライバとバージョンを合わせる必要があります。
 
